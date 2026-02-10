@@ -86,5 +86,4 @@ This project demonstrates how Excel can be effectively used as a powerful analyt
 **Lavinya V**  
 Aspiring Data Analyst | Excel • SQL • Python • Data Visualization
 
-## 🗂 Project Structure
 
